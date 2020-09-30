@@ -5,6 +5,8 @@ Modelling the geometry and dynamics of self-propelling jellies
 - auto-generate coordinate information & triangulation connectivity on surfaces in 3D space
 - construct surfaces from cross-sectional contours of 3D shapes at various depths (slices) and directions
 - optimise surface discretization for equiangular triangulation
+- option for regular lattice and non-lattice/grid triangulation
+- enable generation of multiple discretization patterns per surface geometry
 - enable attribute encoding on sub-elements
 
 ## Motivation
