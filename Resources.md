@@ -36,8 +36,7 @@
 * https://github.com/inducer/meshmode
 
 ### **modepy by Andreas Klöckner**
-#### high-order unstructured discretization on simplices
-* https://documen.tician.de/modepy/
+* *high-order unstructured discretization on simplices* https://documen.tician.de/modepy/
 * https://github.com/inducer/modepy
 
 ## Other complex & amazing FEM models/softwares
@@ -46,19 +45,17 @@
 * http://gmsh.info/
 
 ## Discrete Differential Geometry
-*Vector field processing on triangle meshes*
-* http://geometry.caltech.edu/pubs/dGDT15.pdf
-*Discrete Differential Forms for Computational Modeling*
-* http://www.geometry.caltech.edu/pubs/DKT05.pdf
-*DDG: An Applied Introduction, by Keenan Crane*
-* https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
+* *Vector field processing on triangle meshes* http://geometry.caltech.edu/pubs/dGDT15.pdf
+* *Discrete Differential Forms for Computational Modeling* http://www.geometry.caltech.edu/pubs/DKT05.pdf
+* *DDG: An Applied Introduction, by Keenan Crane* https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
 
 ## GPU acceleration libraries, APIs
 ### **Codes by Andreas Klöckner**
 * https://github.com/inducer/pycuda
 * https://github.com/inducer/pyopencl
 * https://github.com/inducer/loopy
-*OpenGL tutorials*
+
+## OpenGL tutorials
 * http://www.opengl-tutorial.org/
 * https://lazyfoo.net/tutorials/OpenGL/index.php
 
@@ -66,12 +63,9 @@
 * ?
 
 ## Cool codes & websites
-*John Burkardt*
-* https://people.math.sc.edu/Burkardt/index.html
-*Keenan Crane*
-* https://www.cs.cmu.edu/~kmcrane/
-*Mathieu Desbrun*
-* http://www.geometry.caltech.edu/pubs.html
+* https://people.math.sc.edu/Burkardt/index.html *John Burkardt*
+* https://www.cs.cmu.edu/~kmcrane/ *Keenan Crane*
+* http://www.geometry.caltech.edu/pubs.html *Mathieu Desbrun*
 
 
 
