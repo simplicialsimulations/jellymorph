@@ -51,6 +51,7 @@ A reference page of useful links
 ## OpenGL tutorials
 * http://www.opengl-tutorial.org/
 * https://lazyfoo.net/tutorials/OpenGL/index.php
+* https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2 *The Cherno*
 
 ## Learning C++
 * https://www.mikedane.com/programming-languages/c++/ *Mike Dane*
@@ -62,9 +63,6 @@ A reference page of useful links
 * https://www.youtube.com/watch?v=KJgsSFOSQv0 *freecodecamp*
 * https://youtu.be/Bz4MxDeEM6k *Caleb Curry*
 * https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs *Jon Engelsma*
-
-## Learning OpenGL
-* https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2 *The Cherno*
 
 ## Discrete Differential Geometry
 * *Vector field processing on triangle meshes* http://geometry.caltech.edu/pubs/dGDT15.pdf
