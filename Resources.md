@@ -1,4 +1,5 @@
-# Resources for getting started
+# A survey of computational geometry & graphics resources
+A reference page of useful links
 
 ## 3D Graphics Engine
 ### **Code-it-yourself tutorials by javidx9**
@@ -15,9 +16,11 @@
 ### **Surface Evolver**
 * http://facstaff.susqu.edu/brakke/evolver/evolver.html
 * http://facstaff.susqu.edu/brakke/evolver/workshop/
+* http://facstaff.susqu.edu/brakke/evolver/html/evolver.htm
 * http://facstaff.susqu.edu/brakke/evmovie/evmovie-doc.html
 * http://facstaff.susqu.edu/brakke/aux/physicsofmicrodroplets/all.html
 * http://facstaff.susqu.edu/brakke/aux/openmicrofluidics/default.html
+* http://facstaff.susqu.edu/brakke/evolver/3dprinting.htm
 * https://rschroll.github.io/evolver/
 
 ### **Courses by Daniele Panozzo**
@@ -39,16 +42,6 @@
 * *high-order unstructured discretization on simplices* https://documen.tician.de/modepy/
 * https://github.com/inducer/modepy
 
-## Other complex & amazing FEM models/softwares
-* https://libigl.github.io/
-* http://torres-sanchez.xyz/ *(good examples of ALE method)*
-* http://gmsh.info/
-
-## Discrete Differential Geometry
-* *Vector field processing on triangle meshes* http://geometry.caltech.edu/pubs/dGDT15.pdf
-* *Discrete Differential Forms for Computational Modeling* http://www.geometry.caltech.edu/pubs/DKT05.pdf
-* *DDG: An Applied Introduction, by Keenan Crane* https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
-
 ## GPU acceleration libraries, APIs
 ### **Codes by Andreas Klöckner**
 * https://github.com/inducer/pycuda
@@ -59,13 +52,33 @@
 * http://www.opengl-tutorial.org/
 * https://lazyfoo.net/tutorials/OpenGL/index.php
 
-## Learn C++
+## Learning C++
 * ?
 
-## Cool codes & websites
+## Discrete Differential Geometry
+* *Vector field processing on triangle meshes* http://geometry.caltech.edu/pubs/dGDT15.pdf
+* *Discrete Differential Forms for Computational Modeling* http://www.geometry.caltech.edu/pubs/DKT05.pdf
+* *DDG: An Applied Introduction, by Keenan Crane* https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
+* *2018 AMS short course on DDG* http://geometry.cs.cmu.edu/ddgshortcourse/
+* *DDG Forum* http://ddg.cs.columbia.edu/
+
+## Advanced tools/models/softwares
+* https://libigl.github.io/
+* https://www.youtube.com/watch?v=hsYRSUW-FGA *hands on libigl tutorial*
+* http://gmsh.info/
+* http://torres-sanchez.xyz/ *(good examples of ALE method)*
+* https://amaresh-sahu.github.io/papers/sahu-mandadapu-jcp-2020.pdf *see page 43*
+* http://www.cs.columbia.edu/cg/multitracker/
+* https://ibamr.github.io/index
+* https://mfem.org/
+
+## Cool codes, lectures, articles & websites
 * https://people.math.sc.edu/Burkardt/index.html *John Burkardt*
 * https://www.cs.cmu.edu/~kmcrane/ *Keenan Crane*
+* http://num.math.uni-goettingen.de/~wardetzky/ *Max Wardetzky*
 * http://www.geometry.caltech.edu/pubs.html *Mathieu Desbrun*
-
-
+* https://marctenbosch.com/ *Marc ten Bosch*
+* http://taichi.graphics/me/ *Yuanming Hu*
+* https://amaresh-sahu.github.io/ *Amaresh Sahu*
+* https://sgp2019.di.unimi.it/graduate_school.html
 
