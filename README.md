@@ -18,11 +18,11 @@ Modelling the geometry and dynamics of self-propelling jellies
 - model physics of mechanical walkers with pointy legs [5-7]
 - model locomotion of 3D cellular automata induced by self-contractility
 - understand non-equilibrium physics underlying cell shape dynamics & motility
-- abstract data representation & computation [7,8]
+- abstract data representation & computation [8,9]
 
 ## Future goals
 - efficient auto-refinement/coarsening of triangulation
-- field projection over triangulation [9,10]
+- field projection over triangulation [10,11]
 - mesh-free shape boundary
 
 ## References
