@@ -21,7 +21,7 @@ Modelling the geometry and dynamics of self-propelling jellies
 
 ## Future goals
 - efficient auto-refinement/coarsening of triangulation
-- field projection across triangulation
+- field projection over triangulation [7,8]
 - mesh-free shape boundary
 
 ## References
@@ -31,3 +31,5 @@ Modelling the geometry and dynamics of self-propelling jellies
 4. http://facstaff.susqu.edu/brakke/evolver/workshop/
 5. https://arxiv.org/abs/2006.02870
 6. https://arxiv.org/abs/1601.01704
+7. http://geometry.caltech.edu/pubs/dGDT16.pdf
+8. https://dl.acm.org/doi/10.1145/3386569.3392389
