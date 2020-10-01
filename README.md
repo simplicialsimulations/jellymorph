@@ -15,13 +15,14 @@ Modelling the geometry and dynamics of self-propelling jellies
 
 ## Applications
 - geometry file for 3D printing
+- model physics of mechanical walkers with pointy legs [5,6]
 - model locomotion of 3D cellular automata induced by self-contractility
 - understand non-equilibrium physics underlying cell shape dynamics & motility
-- abstract data representation & computation [5,6]
+- abstract data representation & computation [7,8]
 
 ## Future goals
 - efficient auto-refinement/coarsening of triangulation
-- field projection over triangulation [7,8]
+- field projection over triangulation [9,10]
 - mesh-free shape boundary
 
 ## References
@@ -29,7 +30,9 @@ Modelling the geometry and dynamics of self-propelling jellies
 2. http://facstaff.susqu.edu/brakke/aux/physicsofmicrodroplets/all.html
 3. http://facstaff.susqu.edu/brakke/aux/openmicrofluidics/default.html
 4. http://facstaff.susqu.edu/brakke/evolver/workshop/
-5. https://arxiv.org/abs/2006.02870
-6. https://arxiv.org/abs/1601.01704
-7. http://geometry.caltech.edu/pubs/dGDT16.pdf
-8. https://dl.acm.org/doi/10.1145/3386569.3392389
+5. http://boim.com/Walkin8r/JansenCycle.gif
+6. http://boim.com/Walkin8r/
+7. https://arxiv.org/abs/2006.02870
+8. https://arxiv.org/abs/1601.01704
+9. http://geometry.caltech.edu/pubs/dGDT16.pdf
+10. https://dl.acm.org/doi/10.1145/3386569.3392389
