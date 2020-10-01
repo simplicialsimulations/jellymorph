@@ -53,7 +53,18 @@ A reference page of useful links
 * https://lazyfoo.net/tutorials/OpenGL/index.php
 
 ## Learning C++
-* ?
+* https://www.mikedane.com/programming-languages/c++/ *Mike Dane*
+* https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M *Derek Banas*
+* https://www.youtube.com/watch?v=_bYFu9mBnr4 *Caleb Curry, 10 hr*
+* https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb *The Cherno*
+
+## Learning C
+* https://www.youtube.com/watch?v=KJgsSFOSQv0 *freecodecamp*
+* https://youtu.be/Bz4MxDeEM6k *Caleb Curry*
+* https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs *Jon Engelsma*
+
+## Learning OpenGL
+* https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2 *The Cherno*
 
 ## Discrete Differential Geometry
 * *Vector field processing on triangle meshes* http://geometry.caltech.edu/pubs/dGDT15.pdf
@@ -71,14 +82,22 @@ A reference page of useful links
 * http://www.cs.columbia.edu/cg/multitracker/
 * https://ibamr.github.io/index
 * https://mfem.org/
+* https://computing.llnl.gov/projects/glvis-finite-element-visualization
 
-## Cool codes, lectures, articles & websites
+## Cool websites & articles
+* https://community.onelonecoder.com/ *javidx9*
+* https://www.math.upenn.edu/~ghrist/index.html *Robert Ghrist calculus*
+* https://www.shapeoperator.com/2019/01/07/relating-dot-wedge/ *Jason Merrill*
 * https://people.math.sc.edu/Burkardt/index.html *John Burkardt*
+* https://people.sc.fsu.edu/~jburkardt/ *John Burkardt*
 * https://www.cs.cmu.edu/~kmcrane/ *Keenan Crane*
 * http://num.math.uni-goettingen.de/~wardetzky/ *Max Wardetzky*
 * http://www.geometry.caltech.edu/pubs.html *Mathieu Desbrun*
 * https://marctenbosch.com/ *Marc ten Bosch*
 * http://taichi.graphics/me/ *Yuanming Hu*
 * https://amaresh-sahu.github.io/ *Amaresh Sahu*
+* https://scholar.google.com/citations?user=uViOnZ4AAAAJ&hl=en *Charles Elliott*
+* https://www.math.nyu.edu/~griffith/ *Boyce Griffith*
+* https://royalsocietypublishing.org/doi/full/10.1098/rsif.2012.0276#d3e643
 * https://sgp2019.di.unimi.it/graduate_school.html
 
