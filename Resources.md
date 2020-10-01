@@ -23,6 +23,8 @@
 ### **Courses by Daniele Panozzo**
 * https://geometryprocessing.github.io/blackbox-computing-python/
 * https://geometryprocessing.github.io/geometric-computing-python/
+* *computer graphics notes* https://github.com/danielepanozzo/cg
+* *geometric modelling notes* https://github.com/danielepanozzo/gp
 
 ### **meshpy by Andreas Klöckner**
 * https://andreask.cs.illinois.edu/aboutme/
@@ -33,18 +35,43 @@
 * https://documen.tician.de/meshmode/
 * https://github.com/inducer/meshmode
 
-## Other complex models
-* http://torres-sanchez.xyz/ (without code, good example of ALE)
+### **modepy by Andreas Klöckner**
+#### high-order unstructured discretization on simplices
+* https://documen.tician.de/modepy/
+* https://github.com/inducer/modepy
+
+## Other complex & amazing FEM models/softwares
+* https://libigl.github.io/
+* http://torres-sanchez.xyz/ *(good examples of ALE method)*
+* http://gmsh.info/
 
 ## Discrete Differential Geometry
-Vector field processing on triangle meshes
+*Vector field processing on triangle meshes*
 * http://geometry.caltech.edu/pubs/dGDT15.pdf
+*Discrete Differential Forms for Computational Modeling*
+* http://www.geometry.caltech.edu/pubs/DKT05.pdf
+*DDG: An Applied Introduction, by Keenan Crane*
+* https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
 
-
-## GPU acceleration libraries
+## GPU acceleration libraries, APIs
 ### **Codes by Andreas Klöckner**
 * https://github.com/inducer/pycuda
 * https://github.com/inducer/pyopencl
 * https://github.com/inducer/loopy
+*OpenGL tutorials*
+* http://www.opengl-tutorial.org/
+* https://lazyfoo.net/tutorials/OpenGL/index.php
 
 ## Learn C++
+* ?
+
+## Cool codes & websites
+*John Burkardt*
+* https://people.math.sc.edu/Burkardt/index.html
+*Keenan Crane*
+* https://www.cs.cmu.edu/~kmcrane/
+*Mathieu Desbrun*
+* http://www.geometry.caltech.edu/pubs.html
+
+
+
