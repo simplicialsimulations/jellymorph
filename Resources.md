@@ -61,7 +61,8 @@ A reference page of useful links
 
 ## Learning C
 * https://www.youtube.com/watch?v=KJgsSFOSQv0 *freecodecamp*
-* https://youtu.be/Bz4MxDeEM6k *Caleb Curry*
+* https://youtu.be/Bz4MxDeEM6k *Caleb Curry 10hr of C*
+* https://youtu.be/1uR4tL-OSNI *Caleb Curry C crash course*
 * https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs *Jon Engelsma*
 
 ## Discrete Differential Geometry
