@@ -15,7 +15,7 @@ Modelling the geometry and dynamics of self-propelling jellies
 
 ## Applications
 - geometry file for 3D printing
-- model physics of mechanical walkers with pointy legs [5-7]
+- model physics of mechanical walkers [5-7]
 - model locomotion of 3D cellular automata induced by self-contractility
 - understand non-equilibrium physics underlying cell shape dynamics & motility
 - abstract data representation & computation [8,9]
@@ -31,8 +31,8 @@ Modelling the geometry and dynamics of self-propelling jellies
 3. http://facstaff.susqu.edu/brakke/aux/openmicrofluidics/default.html
 4. http://facstaff.susqu.edu/brakke/evolver/workshop/
 5. http://boim.com/Walkin8r/JansenCycle.gif
-6. http://boim.com/Walkin8r/
-7. https://www.wikiwand.com/en/Jansen%27s_linkage
+6. https://www.wikiwand.com/en/Jansen%27s_linkage
+7. https://youtu.be/Z1xvAZve9aE *by Yuanming Hu*
 8. https://arxiv.org/abs/2006.02870
 9. https://arxiv.org/abs/1601.01704
 10. http://geometry.caltech.edu/pubs/dGDT16.pdf
