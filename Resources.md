@@ -72,6 +72,9 @@ A reference page of useful links
 * *2018 AMS short course on DDG* http://geometry.cs.cmu.edu/ddgshortcourse/
 * *DDG Forum* http://ddg.cs.columbia.edu/
 
+## Simplicial Complexes
+* https://www.youtube.com/channel/UCThuKLGcSXhBJ5GlwzHobJw/videos *Isabel Darcy*
+
 ## Advanced tools/models/softwares
 * https://libigl.github.io/
 * https://www.youtube.com/watch?v=hsYRSUW-FGA *hands on libigl tutorial*
@@ -99,4 +102,4 @@ A reference page of useful links
 * https://www.math.nyu.edu/~griffith/ *Boyce Griffith*
 * https://royalsocietypublishing.org/doi/full/10.1098/rsif.2012.0276#d3e643
 * https://sgp2019.di.unimi.it/graduate_school.html
-
+* https://www.seas.upenn.edu/~cffjiang/ *Chenfanfu Jiang*
