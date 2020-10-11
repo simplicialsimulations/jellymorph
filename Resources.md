@@ -58,6 +58,7 @@ A reference page of useful links
 * https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M *Derek Banas*
 * https://www.youtube.com/watch?v=_bYFu9mBnr4 *Caleb Curry, 10 hr*
 * https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb *The Cherno*
+* https://youtu.be/mUQZ1qmKlLY *Extern Code*
 
 ## Learning C
 * https://www.youtube.com/watch?v=KJgsSFOSQv0 *freecodecamp*
@@ -71,6 +72,7 @@ A reference page of useful links
 * *DDG: An Applied Introduction, by Keenan Crane* https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
 * *2018 AMS short course on DDG* http://geometry.cs.cmu.edu/ddgshortcourse/
 * *DDG Forum* http://ddg.cs.columbia.edu/
+* *Alan MacDonald on geometric algebra* http://www.faculty.luther.edu/~macdonal/
 
 ## Simplicial Complexes
 * https://www.youtube.com/channel/UCThuKLGcSXhBJ5GlwzHobJw/videos *Isabel Darcy*
@@ -97,9 +99,23 @@ A reference page of useful links
 * http://www.geometry.caltech.edu/pubs.html *Mathieu Desbrun*
 * https://marctenbosch.com/ *Marc ten Bosch*
 * http://taichi.graphics/me/ *Yuanming Hu*
+* https://youtu.be/Y0-76n3aZFA *Taichi, differentiable programming, Yuanming Hu*
 * https://amaresh-sahu.github.io/ *Amaresh Sahu*
 * https://scholar.google.com/citations?user=uViOnZ4AAAAJ&hl=en *Charles Elliott*
 * https://www.math.nyu.edu/~griffith/ *Boyce Griffith*
 * https://royalsocietypublishing.org/doi/full/10.1098/rsif.2012.0276#d3e643
 * https://sgp2019.di.unimi.it/graduate_school.html
 * https://www.seas.upenn.edu/~cffjiang/ *Chenfanfu Jiang*
+* https://sadashigeishida.bitbucket.io/soapfilm_with_thickness/ *Soapfilm with evolving thickness*
+
+
+## Web Development & others
+* https://youtu.be/15YB__vYpuA *React 2020 crash course by codedamn*
+* https://youtu.be/4UZrsTqkcW4 *React 2020 by freecodecamp*
+* https://youtu.be/I6ypD7qv3Z8 *Fullstack React GraphQL Typescript tutorial by Ben Awad*
+* https://youtu.be/BEoFSRdkSZQ *Fullstack Developer roadmap by Adrian Twarog*
+* https://youtu.be/9M4XKi25I2M *Javascript by Caleb Curry*
+* https://youtu.be/mU6anWqZJcc *HTML5 CSS3 by freecodecamp*
+* https://youtu.be/r3GGV2TG_vw *Java by Caleb Curry*
+* https://youtu.be/WPqXP_kLzpo *Visual Studio Code crash course by freecodecamp*
+* https://youtu.be/YS4e4q9oBaU *Golang by freecodecamp*
